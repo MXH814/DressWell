@@ -26,4 +26,4 @@
 
 团队将通过真人访谈和同任务竞品对照检验需求，再确定首版范围。过程模型及选型论证由团队成员结合交付安排亲自撰写，经评审后在本节定稿。技术风险及应对措施随立项讨论记录。
 
-[选题与审核记录](https://github.com/MXH814/DressWell/issues/1) · [调研计划与访谈提纲](docs/research-plan.md) · [课程检查点与协作记录](docs/course.md)
+[项目选题](https://github.com/MXH814/DressWell/issues/1) · [调研计划与访谈提纲](docs/research-plan.md) · [课程检查点与协作记录](docs/course.md)
