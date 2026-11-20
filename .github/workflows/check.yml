@@ -8,5 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Test Markdown link checks
+        run: python .github/scripts/test_check_docs.py
       - name: Check tracked documents and local links
         run: python .github/scripts/check_docs.py
