@@ -33,4 +33,7 @@
 SHA-256：
 
 - 全量原文件与本地副本：`cb7b21da1cb548268e81ebf23aab4a05c97a7b1f4458d12b0cc178f92fa82cac`
-- 开发样本：`10180c9ec9bad0df8edcd0fcb13e1cae11ef6f1c5a584cfe17722b6864d105aa`
+- 开发样本（仓库原始文件，UTF-8、LF）：`c45874888022586a422aeee70b152c1d31471f29c9b4936ede8f0a477114410e`
+- 开发样本（Windows 工作副本，UTF-8、CRLF）：`10180c9ec9bad0df8edcd0fcb13e1cae11ef6f1c5a584cfe17722b6864d105aa`
+
+SHA-256 按文件原始字节计算。从 GitHub 下载原始 JSON 时使用 LF 版本的校验值；若工作副本被 Git 转为 CRLF，则使用 CRLF 版本的值。
