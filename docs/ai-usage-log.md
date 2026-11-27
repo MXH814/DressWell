@@ -11,3 +11,4 @@
 | 跨平台验收补充 | 在[组长的跨平台修订](https://github.com/MXH814/DressWell/commit/786501b76c6cfd91ea2cd9d3288bd468d832685f)基础上，Codex 按 [UC-01 行内意见](https://github.com/MXH814/DressWell/pull/34#discussion_r4715988990)和 [R1 平台计数意见](https://github.com/MXH814/DressWell/pull/36#discussion_r4716007574)把双平台用例独立列出，并同步单平台和零有效平台的判据。 | A03 仍为真人两店核价证据。159／167 元是独立的模拟验收样例。[R1 实际取样已认领](https://github.com/MXH814/DressWell/pull/36#discussion_r4716089575)，双平台样本和复核结果待据实登记。 |
 
 评审时补写实际复核人、修改或拒绝的条目与理由、对应 Issue／PR 及时间。各阶段 AI 参与比例由团队按实际贡献记录，用于期末《AI 使用报告》。
+| 本期范围与验收口径 | 胡知鱼委托 Codex 整理本期范围，选定 SRS 中的 UC-19、UC-22 判据，并同步 PR #34、SRS、评审清单与故事卡。 | 组长的范围确认、测试／质量负责人的判据复核及另一位组员的调研复核待分别在 PR 记录。 |
