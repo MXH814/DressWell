@@ -8,7 +8,6 @@
 | PR 记录 | Codex 根据组内反馈提交 [PR #34](https://github.com/MXH814/DressWell/pull/34)，创建 20 条需求跟踪 Issue，并核对文档检查结果。 | 已记录胡知鱼的修订意见。Copilot 指出了[调研执行成员记录缺口](https://github.com/MXH814/DressWell/pull/34#discussion_r4708972019)。胡知鱼确认实际执行情况，调研报告已按证据编号补登。独立人工评审待完成。 |
 | 第二课要求补遗 | Codex 根据 [MXH814 的评审](https://github.com/MXH814/DressWell/pull/34#pullrequestreview-6076008560)补写故障恢复草案、故事证据链接和第二课讲解入口。 | 评审要求修改。已记录选作草案的恢复场景，需求取舍、性能和恢复阈值、截图独立复核与放行仍由成员据实确认。 |
 | 11 月 27 日复审修订 | Codex 按 [MXH814 的复审](https://github.com/MXH814/DressWell/pull/34#pullrequestreview-6083741806)收窄首页与讲解范围，补写性能、恢复的可判定草案，并整理调研复核入口。 | 独立调研复核和修订后的人为需求确认尚待记录。具体负载、网络、次数和通过阈值由需求及测试／质量负责人确认，课堂与放行结果以实际记录为准。 |
-
-Codex 依据[胡知鱼对平台计数的意见](https://github.com/MXH814/DressWell/pull/36#discussion_r4716007574)同步 UC-01、故事卡与讲解样例。A03 仅佐证两家店的核价经历，真实双平台样本由 R1 跟进。
+| 跨平台验收补充 | 在[组长的跨平台修订](https://github.com/MXH814/DressWell/commit/786501b76c6cfd91ea2cd9d3288bd468d832685f)基础上，Codex 按 [UC-01 行内意见](https://github.com/MXH814/DressWell/pull/34#discussion_r4715988990)和 [R1 平台计数意见](https://github.com/MXH814/DressWell/pull/36#discussion_r4716007574)把双平台用例独立列出，并同步单平台和零有效平台的判据。 | A03 仍为真人两店核价证据。159／167 元是独立的模拟验收样例。[R1 实际取样已认领](https://github.com/MXH814/DressWell/pull/36#discussion_r4716089575)，双平台样本和复核结果待据实登记。 |
 
 评审时补写实际复核人、修改或拒绝的条目与理由、对应 Issue／PR 及时间。各阶段 AI 参与比例由团队按实际贡献记录，用于期末《AI 使用报告》。

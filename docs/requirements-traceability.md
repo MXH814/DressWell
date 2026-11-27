@@ -6,7 +6,7 @@
 
 | 用户故事 | 需求 | 用例 | 业务主题 | Issue | 需求负责人 | 交付增量 |
 | --- | --- | --- | --- | --- | --- | --- |
-| US-01 | FR-01 | UC-01 | 指定规格比价 | [#14](https://github.com/MXH814/DressWell/issues/14) | 胡知鱼（@Chloeee-fish） | v0.2 必做 |
+| US-01 | FR-01 | UC-01 | 指定规格跨平台比价与降级 | [#14](https://github.com/MXH814/DressWell/issues/14) | 胡知鱼（@Chloeee-fish） | v0.2 必做 |
 | US-02 | FR-02 | UC-02 | 用旧衣对照尺码 | [#15](https://github.com/MXH814/DressWell/issues/15) | 胡知鱼（@Chloeee-fish） | v0.2 |
 | US-03 | FR-03 | UC-03 | 识别无法比较的尺寸 | [#16](https://github.com/MXH814/DressWell/issues/16) | 胡知鱼（@Chloeee-fish） | v0.2 |
 | US-04 | FR-04 | UC-04 | 登记衣物 | [#17](https://github.com/MXH814/DressWell/issues/17) | 胡知鱼（@Chloeee-fish） | v0.1 |
