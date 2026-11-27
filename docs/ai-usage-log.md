@@ -1,0 +1,14 @@
+# 第三周 AI 使用台账
+
+| 范围 | 工具与用途 | 当前人工把关记录 |
+| --- | --- | --- |
+| 调研 | Codex 根据已提供的 A01–A06 访谈纪要归纳证据和反例，根据 C01–C03 实测记录及截图整理竞品对照，生成调研报告草稿。 | 需求分析负责人已确认 A01–A06 为真人访谈。竞品记录的第二复核人和报告评审人待记录。 |
+| 需求与场景 | Codex 起草 20 条用例及验收条件、需求追溯矩阵、用例图和三个场景。 | 需求分析负责人已确认 US-01 的优先级，其余需求确认、验收口径和合并放行待团队完成。 |
+| 第三周评审修订 | Codex 依据胡知鱼给出的意见修改调研结论、SRS、用例图、README 和追溯关系，并整理用户故事 Issue。 | 胡知鱼的结论是“按意见修改后复核”，指出需收窄竞品结论、补齐比价异常与两条退货路径、增加访客权限用例并将提醒移出本期。组内复核和合并放行仍待完成。 |
+| PR 记录 | Codex 根据组内反馈提交 [PR #34](https://github.com/MXH814/DressWell/pull/34)，创建 20 条需求跟踪 Issue，并核对文档检查结果。 | 已记录胡知鱼的修订意见。Copilot 指出了[调研执行成员记录缺口](https://github.com/MXH814/DressWell/pull/34#discussion_r4708972019)。胡知鱼确认实际执行情况，调研报告已按证据编号补登。独立人工评审待完成。 |
+| 第二课要求补遗 | Codex 根据 [MXH814 的评审](https://github.com/MXH814/DressWell/pull/34#pullrequestreview-6076008560)补写故障恢复草案、故事证据链接和第二课讲解入口。 | 评审要求修改。已记录选作草案的恢复场景，需求取舍、性能和恢复阈值、截图独立复核与放行仍由成员据实确认。 |
+| 11 月 27 日复审修订 | Codex 按 [MXH814 的复审](https://github.com/MXH814/DressWell/pull/34#pullrequestreview-6083741806)收窄首页与讲解范围，补写性能、恢复的可判定草案，并整理调研复核入口。 | 独立调研复核和修订后的人为需求确认尚待记录。具体负载、网络、次数和通过阈值由需求及测试／质量负责人确认，课堂与放行结果以实际记录为准。 |
+| 跨平台验收补充 | 在[组长的跨平台修订](https://github.com/MXH814/DressWell/commit/786501b76c6cfd91ea2cd9d3288bd468d832685f)基础上，Codex 按 [UC-01 行内意见](https://github.com/MXH814/DressWell/pull/34#discussion_r4715988990)和 [R1 平台计数意见](https://github.com/MXH814/DressWell/pull/36#discussion_r4716007574)把双平台用例独立列出，并同步单平台和零有效平台的判据。 | A03 仍为真人两店核价证据。159／167 元是独立的模拟验收样例。[R1 实际取样已认领](https://github.com/MXH814/DressWell/pull/36#discussion_r4716089575)，双平台样本和复核结果待据实登记。 |
+| 本期范围与验收口径 | Codex 按组员意见同步 SRS、竞品证据说明、评审清单及故事卡，并按组长明确同意代记范围确认。 | 胡知鱼选定 UC-19 和 UC-22。[马祥珲的范围确认](https://github.com/MXH814/DressWell/pull/34#issuecomment-7212213674) · [唐正浩的验收意见](https://github.com/MXH814/DressWell/pull/34#issuecomment-7211855847) · [臧真宇的复核](https://github.com/MXH814/DressWell/pull/34#pullrequestreview-6084626490) · [方鹭洋的复核](https://github.com/MXH814/DressWell/pull/34#issuecomment-7212180166)。 |
+
+评审时补写实际复核人、修改或拒绝的条目与理由、对应 Issue／PR 及时间。各阶段 AI 参与比例由团队按实际贡献记录，用于期末《AI 使用报告》。
