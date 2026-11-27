@@ -52,3 +52,9 @@
 | C01 慢慢买 [活动详情截图](images/competitor-tests/C01-detail.png) | 胡知鱼 | 待独立复核 |
 | C02 Acloset [邮箱登录表单](images/competitor-tests/C02-email.png) | 胡知鱼 | 待独立复核 |
 | C03 Outfity [刷新后计划页](images/competitor-tests/C03-week.png) | 胡知鱼 | 待独立复核 |
+
+### 独立复核要核对什么
+
+请由另一位成员对照原始记录，检查 A01–A06、C01–C03，再在 [PR #34](https://github.com/MXH814/DressWell/pull/34) 留下实际核对的编号、结论及需改之处。优先核对 [A03](用户调研访谈纪要.md#a03) 的 149／155 元与目标色码、[C01](images/competitor-tests/C01-detail.png) 的失效标记、[C02](images/competitor-tests/C02-email.png) 的测试终点和 [C03](images/competitor-tests/C03-week.png) 仅在同设备正常刷新后找回的边界。记录格式：“复核人、日期、已核对编号、结论、修改意见或链接”。待实际复核后回填本节。
+
+US-12「买家会主动维护待收状态」是待验证假设。核验时给用户一套已保存搭配，让其完成“下单→标记待收→重开找回”的任务，观察是否理解状态并愿意维护，结果记录在 [Issue #25](https://github.com/MXH814/DressWell/issues/25)。
