@@ -1,6 +1,6 @@
 # 穿好需求追溯矩阵 v0
 
-本期共 20 个用例，其中 18 个功能用例、2 个非功能需求用例。业务描述和 Given / When / Then 见[需求规格说明书](requirements-srs.md)，便于组内阅读的版本见[需求评审清单](第三周需求评审清单.md)。
+本期共 21 个用例，其中 18 个功能用例、3 个非功能需求用例（性能、安全、可用性）。业务描述和 Given / When / Then 见[需求规格说明书](requirements-srs.md)，便于组内阅读的版本见[需求评审清单](第三周需求评审清单.md)。
 
 表中的负责人在 GitHub 上负责需求确认及跟踪。此表记录需求预计交付的增量，开发、测试分工及迭代排期由组长依据团队分工协调。
 
@@ -26,5 +26,6 @@
 | US-19 | NFR-01 | UC-19 | 核对查价响应时间 | [#31](https://github.com/MXH814/DressWell/issues/31) | 胡知鱼（@Chloeee-fish） | v0.2 |
 | US-20 | NFR-02 | UC-20 | 保护私人衣物照片 | [#32](https://github.com/MXH814/DressWell/issues/32) | 胡知鱼（@Chloeee-fish） | v0.1 |
 | US-21 | FR-19 | UC-21 | 访客查看公开示例 | [#33](https://github.com/MXH814/DressWell/issues/33) | 胡知鱼（@Chloeee-fish） | v0.1 |
+| US-22 | NFR-03 | UC-22 | 中断后恢复已保存搭配 | [#35](https://github.com/MXH814/DressWell/issues/35) | 胡知鱼（@Chloeee-fish） | v0.2 |
 
 US-03 补充 US-02 缺少可比尺寸时的处理。US-18／FR-18／UC-18 为定时报价复核提醒，保留编号供后续验证，不计入本期基线。

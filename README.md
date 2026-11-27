@@ -96,4 +96,8 @@ flowchart TD
 
 五人小组由组长协调。仓库已建立三类 Issue 模板、三个增量里程碑及文档 CI，`main` 通过独立评审后合并。[仓库启动记录](https://github.com/MXH814/DressWell/issues/2) · [调研交付 Issue](https://github.com/MXH814/DressWell/issues/3) · [调研计划与访谈提纲](docs/research-plan.md) · [第三周需求评审清单](docs/第三周需求评审清单.md) · [课程检查点](docs/course.md)
 
-**8 分钟课堂讲解**　用 1 分钟讲用户和三个问题，3 分钟对着漫画讲同一件夹克的选择、价格和去向，2 分钟重点比较慢慢买与享搭衣橱（其余四款供追问），最后各用 1 分钟交代交付增量和调研安排。
+## 各课讲解入口
+
+- **第一课立项**：用上面的四格漫画说明产品故事、拟交付增量及调研安排。
+- **第二课调研**：[八分钟调研讲解提纲](docs/lesson-2-research-brief.md)。按 3 分钟讲干系人与业务目标、3 分钟讲痛点证据、2 分钟讲典型故事的顺序。
+- **第三课需求**：[SRS 草稿](docs/requirements-srs.md)和[需求追溯矩阵](docs/requirements-traceability.md)。讲用例图、核心场景和非功能需求。
